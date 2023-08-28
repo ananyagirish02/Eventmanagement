@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EDale</string>
+    <string name="marriage">MARRIAGE</string>
+    <string name="birthdays">BIRTHDAYS</string>
+    <string name="mehandi">MEHANDI</string>
+    <string name="bridesmaid_dance">Bridesmaid dance</string>
+    <string name="event_date">Event Date:</string>
+    <string name="book">BOOK</string>
+</resources>
